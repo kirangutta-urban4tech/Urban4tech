@@ -1,27 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Urban4
 
-You can use the [editor on GitHub](https://github.com/kirangutta-urban4tech/Urban4tech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are building a web-first, role-based, highly-scalable Enterprise Grade Smart City platform that would transform managing cities across the globe. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our goal is to enable you to provision, install, manage, and maintain thousands of smart devices across the world at the click of the button.
 
-### Markdown
+You would be able to integrate any 3rd party solution onto the applications and analyse
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
